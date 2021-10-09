@@ -1,0 +1,45 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/sweepminer_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images/flag.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/images/flag.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images/tile.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/images/tile.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main$delayedInit$body 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main$delayedInit$body 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Board.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Board.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main$$anon$1$$anon$2 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main$$anon$1$$anon$2 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main$$anon$1 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main$$anon$1 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main$ 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main$ 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/TileTexture.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/TileTexture.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Board 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Board 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/TileTexture$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/TileTexture$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Tile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Tile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Renderer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Renderer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sweepminer/Renderer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/target/scala-2.12/classes/sweepminer/Renderer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

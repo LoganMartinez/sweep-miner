@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/src/main/scala/sweepminer/Tile.scala:4:38: value Defualt is not a member of object sweepminer.TileTexture[0m
+[0m[[0m[31merror[0m] [0m[0m  private var _texture = TileTexture.Defualt[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

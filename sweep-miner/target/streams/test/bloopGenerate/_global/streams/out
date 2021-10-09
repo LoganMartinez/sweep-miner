@@ -1,0 +1,4 @@
+[debug] [sweep-miner-test] Classpath dependencies List()
+[debug] [sweep-miner-test] Dependencies from configurations List(sweep-miner)
+[debug] Bloop wrote the configuration of project 'sweep-miner-test' to '/Users/logan/Desktop/school/Projects/sweep-miner/sweep-miner/.bloop/sweep-miner-test.json'
+[success] Generated .bloop/sweep-miner-test.json
